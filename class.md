@@ -1,6 +1,6 @@
 ## Class Information
-- Name: {Ariyan}
-- Certification: [Meta Front-End Developer]  
+- Name: Ariyan
+- Certification: Meta Front-End Developer
 
 ## Instructions
 Please replace the placeholders with your details:
